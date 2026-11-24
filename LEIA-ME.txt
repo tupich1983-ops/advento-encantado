@@ -1,4 +1,16 @@
-ADVENTO ENCANTADO DA MARINA
-Conteúdo: index.html e 25 MP3 dentro de audios/.
-Para GitHub: extraia o ZIP e envie index.html e a pasta audios ao repositório advento-encantado.
-Preserve abertura_marina_thais.wav na raiz.
+ADVENTO ENCANTADO DA MARINA — 25 ILUSTRAÇÕES NATALINAS
+
+Este pacote contém:
+- index.html: calendário atualizado, preservando as 25 narrações da Thaís
+- imagens/dia-01.jpg a imagens/dia-25.jpg: 25 ilustrações diferentes, uma por dia
+
+COMO ATUALIZAR O GITHUB
+1. Extraia este ZIP no computador.
+2. Abra github.com/tupich1983-ops/advento-encantado
+3. Em Add file > Upload files, envie index.html e a pasta imagens inteira.
+4. Clique em Commit changes.
+5. MANTENHA os arquivos que já estão no repositório: audios/dia-01.mp3 até audios/dia-25.mp3 e abertura_marina_thais.wav.
+6. Depois da publicação, abra seu site e teste as portinhas 1, 24 e 25.
+
+DICA: O GitHub Pages não extrai ZIP automaticamente. É preciso enviar os arquivos extraídos.
+Se o navegador mostrar a versão antiga, use Ctrl + Shift + R.
