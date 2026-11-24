@@ -1,0 +1,4 @@
+ADVENTO ENCANTADO DA MARINA
+Conteúdo: index.html e 25 MP3 dentro de audios/.
+Para GitHub: extraia o ZIP e envie index.html e a pasta audios ao repositório advento-encantado.
+Preserve abertura_marina_thais.wav na raiz.
